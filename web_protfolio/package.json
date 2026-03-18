@@ -1,0 +1,24 @@
+{
+  "name": "personal-portfolio-blog",
+  "version": "1.0.0",
+  "description": "A personal portfolio and blog web application with Node.js/Express backend and vanilla HTML/CSS/JS frontend.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "portfolio",
+    "blog",
+    "nodejs",
+    "express",
+    "web-application"
+  ],
+  "author": "Laiba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

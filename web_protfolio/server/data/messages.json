@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Test User",
+        "email": "test@example.com",
+        "subject": "Test Subject",
+        "message": "This is a test message from the automated test suite.",
+        "date": "2026-02-21T17:44:44.433Z",
+        "read": false
+    },
+    {
+        "id": 2,
+        "name": "Test User",
+        "email": "test@example.com",
+        "subject": "Test Subject",
+        "message": "This is a test message from the automated test suite.",
+        "date": "2026-02-21T18:45:19.790Z",
+        "read": false
+    },
+    {
+        "id": 3,
+        "name": "Test User",
+        "email": "test@example.com",
+        "subject": "Test Subject",
+        "message": "This is a test message from the automated test suite.",
+        "date": "2026-02-22T16:55:06.575Z",
+        "read": false
+    },
+    {
+        "id": 4,
+        "name": "Test User",
+        "email": "test@example.com",
+        "subject": "Test Subject",
+        "message": "This is a test message from the automated test suite.",
+        "date": "2026-03-11T22:05:38.872Z",
+        "read": false
+    }
+]

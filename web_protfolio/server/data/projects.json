@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Dashboard",
+        "description": "A responsive dashboard for managing online store products, orders, and customer analytics. Built with modern web technologies featuring real-time data visualization.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Chart.js"],
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "fullstack",
+        "featured": true,
+        "date": "2025-12-01"
+    },
+    {
+        "id": 2,
+        "title": "Weather Forecast App",
+        "description": "A weather application that provides real-time forecasts, hourly data, and 7-day predictions with beautiful UI animations and location-based services.",
+        "technologies": ["HTML", "CSS", "JavaScript", "REST API"],
+        "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "frontend",
+        "featured": true,
+        "date": "2025-10-15"
+    },
+    {
+        "id": 3,
+        "title": "Task Management System",
+        "description": "A collaborative task management tool with drag-and-drop functionality, team assignments, deadline tracking, and progress reporting features.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+        "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "fullstack",
+        "featured": false,
+        "date": "2025-08-20"
+    },
+    {
+        "id": 4,
+        "title": "Recipe Finder",
+        "description": "A recipe search application that helps users discover new meals based on available ingredients, dietary preferences, and cuisine types.",
+        "technologies": ["HTML", "CSS", "JavaScript", "REST API"],
+        "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "frontend",
+        "featured": false,
+        "date": "2025-06-10"
+    },
+    {
+        "id": 5,
+        "title": "Chat Application",
+        "description": "A real-time messaging application with user authentication, group chats, emoji support, and message history features.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "WebSocket"],
+        "image": "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "fullstack",
+        "featured": true,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 6,
+        "title": "Portfolio Website Generator",
+        "description": "A tool that generates customizable portfolio websites from user input, with multiple themes, sections, and export functionality.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Node.js"],
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "category": "fullstack",
+        "featured": false,
+        "date": "2025-02-18"
+    }
+]

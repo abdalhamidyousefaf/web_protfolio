@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with Node.js: A Beginner's Guide",
+        "excerpt": "Learn the fundamentals of Node.js, from installation to building your first server application.",
+        "content": "Node.js has revolutionized the way we build server-side applications. In this comprehensive guide, we will walk through the basics of Node.js, understand its event-driven architecture, and build a simple web server from scratch.\n\nNode.js is a JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript on the server side, making it possible to use a single programming language for both front-end and back-end development.\n\nKey concepts covered:\n- Installing Node.js and npm\n- Understanding the event loop\n- Creating your first HTTP server\n- Working with modules\n- Handling file I/O operations\n\nBy the end of this guide, you will have a solid foundation in Node.js and be ready to build more complex applications.",
+        "author": "Laiba",
+        "date": "2025-11-15",
+        "tags": ["Node.js", "JavaScript", "Backend", "Tutorial"],
+        "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600&h=400&fit=crop",
+        "readTime": "8 min"
+    },
+    {
+        "id": 2,
+        "title": "Responsive Web Design: Best Practices in 2025",
+        "excerpt": "Explore modern responsive design techniques using CSS Grid, Flexbox, and media queries.",
+        "content": "Responsive web design is no longer optional—it is a necessity. With users accessing websites from various devices, ensuring your web application looks great on all screen sizes is crucial.\n\nIn this article, we explore the latest best practices for responsive design:\n\n1. Mobile-First Approach: Start designing for mobile devices first, then progressively enhance for larger screens.\n\n2. CSS Grid and Flexbox: These modern layout systems provide powerful tools for creating flexible, responsive layouts without the need for frameworks.\n\n3. Fluid Typography: Use relative units (rem, em, vw) instead of fixed pixel values to ensure text scales properly.\n\n4. Responsive Images: Implement srcset and the picture element for optimized image delivery.\n\n5. Container Queries: The newest addition to CSS that allows components to respond to their container size rather than the viewport.\n\nBy following these practices, you can create websites that provide an excellent user experience across all devices.",
+        "author": "Laiba",
+        "date": "2025-10-20",
+        "tags": ["CSS", "Responsive Design", "Frontend", "Web Development"],
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=600&h=400&fit=crop",
+        "readTime": "6 min"
+    },
+    {
+        "id": 3,
+        "title": "Building RESTful APIs with Express.js",
+        "excerpt": "A step-by-step tutorial on creating robust RESTful APIs using Express.js framework.",
+        "content": "Express.js is the most popular Node.js framework for building web applications and APIs. In this tutorial, we will build a complete RESTful API from scratch.\n\nTopics covered:\n\n1. Setting Up Express: Installing Express and creating the basic server structure.\n\n2. Route Handling: Implementing GET, POST, PUT, and DELETE endpoints.\n\n3. Middleware: Understanding and using middleware for logging, authentication, and error handling.\n\n4. Data Validation: Validating incoming request data to ensure data integrity.\n\n5. Error Handling: Implementing proper error handling and sending meaningful error responses.\n\n6. Testing: Writing tests for your API endpoints using testing frameworks.\n\nA well-designed API is the backbone of any modern web application. This guide will help you build APIs that are scalable, maintainable, and secure.",
+        "author": "Laiba",
+        "date": "2025-09-05",
+        "tags": ["Express.js", "Node.js", "REST API", "Backend"],
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop",
+        "readTime": "10 min"
+    },
+    {
+        "id": 4,
+        "title": "JavaScript ES6+ Features Every Developer Should Know",
+        "excerpt": "Master the modern JavaScript features that will make your code cleaner and more efficient.",
+        "content": "JavaScript has evolved significantly with ES6 and subsequent versions. Understanding these modern features is essential for any web developer.\n\nKey features covered:\n\n1. Arrow Functions: Shorter syntax for function expressions with lexical 'this' binding.\n\n2. Destructuring: Extract values from arrays and objects with concise syntax.\n\n3. Template Literals: Create strings with embedded expressions and multi-line support.\n\n4. Promises and Async/Await: Handle asynchronous operations in a clean, readable way.\n\n5. Modules: Organize your code with import and export statements.\n\n6. Spread and Rest Operators: Powerful operators for working with arrays and objects.\n\n7. Optional Chaining: Safely access nested object properties without null checks.\n\nThese features not only make your code more readable but also help you write more maintainable applications.",
+        "author": "Laiba",
+        "date": "2025-07-12",
+        "tags": ["JavaScript", "ES6", "Frontend", "Programming"],
+        "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600&h=400&fit=crop",
+        "readTime": "7 min"
+    }
+]
